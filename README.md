@@ -1,20 +1,20 @@
 <h1 align="center">Glow Run</h1>
 <table>
   <tr>
-    <td><img src="./images/glowrun1.png" width="100%" height="270px"/></td>
-    <td><img src="./images/glowrun2.png" width="100%" height="270px"/></td>
+    <td><img src="./images/glowrun1.png" width="100%"/></td>
+    <td><img src="./images/glowrun2.png" width="100%"/></td>
   </tr>
   <tr>
-    <td><img src="./images/glowrun3.png" width="100%" height="270px"/></td>
-    <td><img src="./images/glowrun4.png" width="100%" height="270px"/></td>
+    <td><img src="./images/glowrun3.png" width="100%"/></td>
+    <td><img src="./images/glowrun4.png" width="100%"/></td>
   </tr>
   <tr>
-    <td><img src="./images/glowrun5.png" width="100%" height="270px"/></td>
-    <td><img src="./images/glowrun6.png" width="100%" height="270px"/></td>
+    <td><img src="./images/glowrun5.png" width="100%"/></td>
+    <td><img src="./images/glowrun6.png" width="100%"/></td>
   </tr>
   <tr>
-    <td><img src="./images/glowrun7.gif" width="100%" height="270px"/></td>
-    <td><img src="./images/glowrun8.gif" width="100%" height="270px"/></td>
+    <td><img src="./images/glowrun7.gif" width="100%"/></td>
+    <td><img src="./images/glowrun8.gif" width="100%"/></td>
   </tr>
 </table>
 
