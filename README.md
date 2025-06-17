@@ -18,7 +18,6 @@
   </tr>
 </table>
 
-<br/><br/>
 <h2>Project description</h2>
 <b>Glow Run</b> is a first-person shooter platformer developed in <b>Unreal Engine 4</b> using the Blueprint visual scripting system. Created as part of a university assignment, the game features animated gameplay, an engaging GUI, and five progressively challenging levels.
 
